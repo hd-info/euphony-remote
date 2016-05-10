@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest
+    package="com.audiokernel.euphonyrmt"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <application>
+        <meta-data
+            android:name="com.crashlytics.ApiKey"
+            android:value="da6edb0efc6a9533255bc49c870a7dc246a5e657" />
+    </application>
+</manifest>
